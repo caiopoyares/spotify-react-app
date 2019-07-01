@@ -40,7 +40,7 @@ cd ..
 npm start / yarn start
 ```
 
-Your application will run on http://localhost:3000 and the server on http://localhost/4000
+Your application will run on http://localhost:3000 and the server on http://localhost:4000
 
 ### Using the app
 
