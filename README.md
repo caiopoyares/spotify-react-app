@@ -1,12 +1,12 @@
 # Spotify React App
 
-This is a React application to find Albums and Musics from Spotify API and listen a 30 seconds preview.
+This is a React application to find Albums and Musics from Spotify API and listen a 30 seconds preview. :fire:
 
 ## Getting Started :punch:
 
 To use the app, you must first clone this repository and open it on your computer.
 
-Open the **server.js** file at the root folder and add your own SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET.
+Open the **server.js** file at the root folder and add your own **SPOTIFY_CLIENT_ID** and **SPOTIFY_CLIENT_SECRET**.
 
 ### Installing and running the app :100:
 
@@ -30,11 +30,17 @@ and again, run
 npm install / yarn
 ```
 
-and that's it. You now can go back to root folder and start the applcation using
+and that's it. You now can go back to root folder and start the app using
+
+```
+cd ..
+```
 
 ```
 npm start / yarn start
 ```
+
+Your application will run on http://localhost:3000 and the server on http://localhost/4000
 
 ### Using the app
 
