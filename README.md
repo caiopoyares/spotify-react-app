@@ -44,4 +44,4 @@ Your application will run on http://localhost:3000 and the server on http://loca
 
 ### Using the app
 
-Login to your spotify account and and use the searchbar to find your favorite band albums. :satisfied: :guitar:
+Login to your spotify account and use the searchbar to find your favorite band albums. :satisfied: :guitar:
