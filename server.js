@@ -5,8 +5,10 @@ let cors = require("cors");
 
 let app = express();
 
+// Fill out the variables below with your client id and client secret provided by Spotify
 const SPOTIFY_CLIENT_ID = "YOUR_SPOTIFY_CLIENT_ID";
 const SPOTIFY_CLIENT_SECRET = "YOUR_SPOTIFY_CLIENT_SECRET";
+// --------------------------------------------------------------------------------------
 
 let redirect_uri = process.env.REDIRECT_URI || "http://localhost:4000/callback";
 
